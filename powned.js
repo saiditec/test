@@ -1,0 +1,4 @@
+function pown(){
+alert('powned');
+}
+
